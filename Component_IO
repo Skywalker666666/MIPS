@@ -1,0 +1,44 @@
+-- This file to serve as reference for each individual component input/output ports
+
+----------------------
+Register File [Kevin]:
+  inputs:
+  
+  outputs:
+  
+
+----------------------
+Instruction Memory [James/Zander]:
+  inputs:
+  
+  outputs:
+  
+
+----------------------
+Data Memory [James/Zander]:
+  inputs:
+  
+  outputs:
+  
+
+----------------------
+ALU [Zhiliu]:
+  inputs:
+  
+  outputs:
+  
+
+----------------------
+Control Unit[Xuan]:
+  inputs:
+  
+  outputs:
+  
+
+----------------------
+ALU Control[Gildo]:
+  inputs:
+  
+  outputs:
+  
+
