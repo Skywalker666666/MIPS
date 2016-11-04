@@ -7,7 +7,7 @@ Kevin: Register
 
 Gildo: ALU, ALU Control
 
-Quin: Mux and Program Counter
+Xuan: Contorl Unit, Mux and Program Counter
 
 Zhiliu: Adder and two bit shifter
 
