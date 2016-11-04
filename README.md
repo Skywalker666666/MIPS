@@ -5,9 +5,9 @@ James/Zander: Instruction Memory and Data Memory
 
 Kevin: Register
 
-Gildo: ALU, ALU Control
+Gildo: ALU Control, 32-bit Adder
 
 Xuan: Contorl Unit, Mux and Program Counter
 
-Zhiliu: Adder and two bit shifter
+Zhiliu: ALU, Adder and two bit shifter
 
