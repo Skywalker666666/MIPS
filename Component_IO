@@ -2,43 +2,38 @@
 
 ----------------------
 Register File [Kevin]:
-  inputs:
-  
-  outputs:
-  
+entity Register_File is
+  Port (
+   i_Clk      : in std_logic;
+   i_Rst      : in std_logic;
+   i_regwrite : in std_logic;
+   i_rt       : in std_logic_vector(4 downto 0);
+   i_rd       : in std_logic_vector(4 downto 0);
+   i_w_reg    : in std_logic_vector(4 downto 0);
+   i_w_data   : in std_logic_vector(31 downto 0);
+   o_rt_data  : out std_logic_vector(31 downto 0);
+   o_rd_data  : out std_logic_vector(31 downto 0)
+   );
+end Register_File;
+
 
 ----------------------
 Instruction Memory [James/Zander]:
-  inputs:
-  
-  outputs:
-  
+
 
 ----------------------
 Data Memory [James/Zander]:
-  inputs:
-  
-  outputs:
   
 
 ----------------------
 ALU [Zhiliu]:
-  inputs:
-  
-  outputs:
   
 
 ----------------------
 Control Unit[Xuan]:
-  inputs:
-  
-  outputs:
   
 
 ----------------------
 ALU Control[Gildo]:
-  inputs:
-  
-  outputs:
   
 
