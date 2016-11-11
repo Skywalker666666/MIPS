@@ -35,5 +35,11 @@ Control Unit[Xuan]:
 
 ----------------------
 ALU Control[Gildo]:
-  
+entity ALU_Control is
+ Port (
+  i_ALUOp       : in STD_LOGIC_VECTOR(1 downto 0); -- From Main Control Unit
+  i_Inst_Funct  : in STD_LOGIC_VECTOR(5 downto 0); -- From Instruction memory
+  o_ALU_Control : out STD_LOGIC_VECTOR(3 downto 0) -- Control lines to ALU
+  );
+end ALU_Control;
 
