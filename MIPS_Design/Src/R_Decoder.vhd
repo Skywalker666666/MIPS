@@ -1,8 +1,23 @@
 ----------------------------------------------------------------------------------
---MIPS Register File Test Bench
---By: Kevin Mottler
---Camel Clarkson 32 Bit MIPS Design Group
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date: 09/30/2016 02:38:42 PM
+-- Design Name: 
+-- Module Name: W_Decoder - Behavioral
+-- Project Name: 
+-- Target Devices: 
+-- Tool Versions: 
+-- Description: 
+-- 
+-- Dependencies: 
+-- 
+-- Revision:
+-- Revision 0.01 - File Created
+-- Additional Comments:
+-- 
 ----------------------------------------------------------------------------------
+
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

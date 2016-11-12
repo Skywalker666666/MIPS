@@ -7,7 +7,7 @@ Kevin: Register
 
 Gildo: ALU Control, 32-bit Adder
 
-Xuan: Contorl Unit, Mux and Program Counter
+Xuan: Contorl Unit, Mux and Signal Extender
 
 Zhiliu: ALU, Adder and two bit shifter
 
